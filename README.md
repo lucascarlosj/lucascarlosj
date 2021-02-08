@@ -1,5 +1,1 @@
-![Metrics](https://metrics.lecoq.io/lucascarlosj?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo&config.animated=true)
-
-<p> <img src="https://komarev.com/ghpvc/?username=lucascarlosj&label=Profile%20views&color=0e75b6&style=flat" alt="lucascarlosj"/></p>
-<a href="https://www.linkedin.com/in/lucas-carlos-a9ba44197/" target="blank"></a>
-</p>
+![Metrics](https://metrics.lecoq.io/lucascarlosj?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo&config.animated=true)
