@@ -1,6 +1,6 @@
-### Hi there, I'm Lucas! 👋
+### Hi there 👋
 
-Hi, I'm Lucas Carlos, a passionate mobile developer.
+I'm Lucas Carlos, a passionate mobile developer.
 
 - 💻'I am currently learning flutter
 
