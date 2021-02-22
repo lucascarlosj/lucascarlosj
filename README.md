@@ -2,7 +2,6 @@
 
 Hi, I'm Lucas Carlos, a passionate mobile developer.
 
-- 🕵️‍'I am currently looking for an internship.
 - 💻'I am currently learning flutter
 
 <a>
