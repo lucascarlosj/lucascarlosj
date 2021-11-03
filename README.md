@@ -4,7 +4,7 @@
 
 
 ### About me
-I am currently a student and I dedicate myself more to mobile development 📱 (Flutter), I always like to learn new things about the world of development and technology as a whole!
+Student and currently working with Flutter mobile development 📱 (Flutter)!
 
 
 <p align="center">
